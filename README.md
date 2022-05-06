@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KumaranSekar18
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science and its concepts eventually to become an aspiring Data Scientist.
-- 💞️ I’m looking to collaborate on Small Data Science Projects and So on
-- 📫 How to reach me 
+- 👋 Hi, I’m Kumaran Sekar
+- 👀 I’m too into serious in the field of Data Science.
+- 🌱 Graduated in DataScience and Engineering, MBA in marketing and production, BE in automobile. Acitvely hurting the jobs in datasciene field. 
+- 📫 How to reach - Kumransekarr@gmail.com
 
 <!---
 KumaranSekar18/KumaranSekar18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
